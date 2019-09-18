@@ -1,0 +1,18 @@
+{
+  "name": "pnoexz/worker",
+  "description": "Worker abstraction",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Pnoexz\\": "src/"
+    }
+  },
+  "authors": [{
+    "name": "Matias Pino",
+    "email": "pnoexz@gmail.com"
+  }],
+  "require": {
+    "psr/log": "^1.1"
+  }
+}
